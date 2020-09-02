@@ -1,0 +1,1 @@
+# hardware-info-dmidecode-artigo
